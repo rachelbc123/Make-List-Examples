@@ -1,4 +1,4 @@
-// These variables define the URLs where the data for the table comes from
+ // These variables define the URLs where the data for the table comes from
 // ControllerURL is the base API endpoint
 var ControllerURL = '/api/IncidentListView';
 // ListURL is the full URL to fetch the list of incidents
